@@ -1,0 +1,20 @@
+[
+  {
+    "folder": "diffusion_models",
+    "name": "qwen_image_edit_2511_fp8mixed.safetensors",
+    "label": "Image model",
+    "totalBytes": 20533762817
+  },
+  {
+    "folder": "text_encoders",
+    "name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "label": "Text encoder",
+    "totalBytes": 9384670680
+  },
+  {
+    "folder": "vae",
+    "name": "qwen_image_vae.safetensors",
+    "label": "Image decoder",
+    "totalBytes": 253806246
+  }
+]
